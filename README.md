@@ -1,2 +1,2 @@
 # neurips2023_5388
-For review purpose, please do not star, fork or watch. Thank you!
+This is a temporary repo for review purpose. The official version will be released after the review process. 
